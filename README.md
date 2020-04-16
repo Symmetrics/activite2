@@ -15,3 +15,9 @@ pip install FukuML
 
 ```
 git clone https://github.com/fukuball/An-Introduce-to-iNDIEVOX-Open-Data-API-and-the-intelligent-music-application
+```
+
+### Step 5. 新增套件資料夾
+
+```
+cd An-Introduce-to-iNDIEVOX-Open-Data-API-and-the-intelligent-music-application
