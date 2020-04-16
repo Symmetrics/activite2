@@ -21,3 +21,10 @@ git clone https://github.com/fukuball/An-Introduce-to-iNDIEVOX-Open-Data-API-and
 
 ```
 cd An-Introduce-to-iNDIEVOX-Open-Data-API-and-the-intelligent-music-application
+mkdir library
+```
+
+### Step 6. Clone 必要套件
+
+```
+cd library
