@@ -28,3 +28,8 @@ mkdir library
 
 ```
 cd library
+git clone https://github.com/h-collector/Apriori
+git clone https://github.com/indievox-inc/iNDIEVOX-Dataset
+```
+
+### Step 7. 參考投影片使用
