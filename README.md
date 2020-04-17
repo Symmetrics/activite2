@@ -33,3 +33,5 @@ git clone https://github.com/indievox-inc/iNDIEVOX-Dataset
 ```
 
 ### Step 7. 參考投影片使用
+
+[iNDIEVOX Open Data/API 智慧音樂應用](https://speakerdeck.com/fukuball/api-and-the-intelligent-music-application)
