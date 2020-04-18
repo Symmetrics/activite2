@@ -10,3 +10,7 @@ $type     = Apriori::SRC_PLAIN; //data type
 $recomFor = 'sugar,beer';             //recommendation for
 
 $data = 'lesson1_dataset.txt';
+
+$apri = new Apriori($type, $data, $minSupp, $minConf);
+$apri->displayTransactions()
+    ->solve();
