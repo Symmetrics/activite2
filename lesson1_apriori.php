@@ -14,3 +14,7 @@ $data = 'lesson1_dataset.txt';
 $apri = new Apriori($type, $data, $minSupp, $minConf);
 $apri->displayTransactions()
     ->solve();
+
+$apri->generateRules()
+    ->displayRules()
+    ->displayRecommendations($recomFor);
