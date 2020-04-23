@@ -18,3 +18,5 @@ $apri->displayTransactions()
 $apri->generateRules()
     ->displayRules()
     ->displayRecommendations($recomFor);
+
+unset($apri);
