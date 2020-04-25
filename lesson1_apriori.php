@@ -20,3 +20,5 @@ $apri->generateRules()
     ->displayRecommendations($recomFor);
 
 unset($apri);
+
+?>
