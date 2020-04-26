@@ -1,1 +1,1 @@
-#encodin
+#encoding=utf
