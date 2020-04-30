@@ -1,3 +1,3 @@
 #encoding=utf8
 
-impo
+import o
