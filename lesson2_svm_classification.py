@@ -1,4 +1,4 @@
 #encoding=utf8
 
 import os
-import Fu
+import FukuM
