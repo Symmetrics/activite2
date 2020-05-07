@@ -1,4 +1,4 @@
 #encoding=utf8
 
 import os
-import FukuML.Utility as
+import FukuML.Utility as ut
