@@ -2,4 +2,4 @@
 
 import os
 import FukuML.Utility as utility
-import FukuML.SupportVector
+import FukuML.SupportVectorMachine
