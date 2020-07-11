@@ -8,4 +8,5 @@ input_train_data_file = os.path.join(os.path.join(os.getcwd(), os.path.dirname(_
 
 cross_validator = utility.CrossValidator()
 
-svm_mc1 = svm.MultiClassifier
+svm_mc1 = svm.MultiClassifier()
+s
