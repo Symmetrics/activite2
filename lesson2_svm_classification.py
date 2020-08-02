@@ -10,4 +10,5 @@ cross_validator = utility.CrossValidator()
 
 svm_mc1 = svm.MultiClassifier()
 svm_mc1.load_train_data(input_train_data_file)
-svm_mc1.set_param(svm_kernel='soft_gaussian_kernel', 
+svm_mc1.set_param(svm_kernel='soft_gaussian_kernel', C=1)
+sv
