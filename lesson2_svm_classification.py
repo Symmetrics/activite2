@@ -18,4 +18,4 @@ svm_mc3 = svm.MultiClassifier()
 svm_mc3.load_train_data(input_train_data_file)
 svm_mc3.set_param(svm_kernel='soft_gaussian_kernel', C=100)
 
-print("
+print("\n10 
