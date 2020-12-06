@@ -21,4 +21,4 @@ svm_mc3.set_param(svm_kernel='soft_gaussian_kernel', C=100)
 print("\n10 fold cross validation：")
 
 cross_validator.add_model(svm_mc1)
-cross_validator.add_model(svm_m
+cross_validator.add_model(svm_mc2)
