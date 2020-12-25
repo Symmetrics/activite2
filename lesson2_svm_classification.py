@@ -22,4 +22,4 @@ print("\n10 fold cross validation：")
 
 cross_validator.add_model(svm_mc1)
 cross_validator.add_model(svm_mc2)
-cross_
+cross_valid
