@@ -23,4 +23,4 @@ print("\n10 fold cross validation：")
 cross_validator.add_model(svm_mc1)
 cross_validator.add_model(svm_mc2)
 cross_validator.add_model(svm_mc3)
-avg_errors = cross_validato
+avg_errors = cross_validator.exc
