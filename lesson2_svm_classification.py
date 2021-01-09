@@ -25,4 +25,4 @@ cross_validator.add_model(svm_mc2)
 cross_validator.add_model(svm_mc3)
 avg_errors = cross_validator.excute()
 
-print("
+print("\n各模型
