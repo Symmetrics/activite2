@@ -27,4 +27,4 @@ avg_errors = cross_validator.excute()
 
 print("\n各模型驗證平均錯誤：")
 print(avg_errors)
-p
+pri
