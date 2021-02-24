@@ -28,4 +28,4 @@ avg_errors = cross_validator.excute()
 print("\n各模型驗證平均錯誤：")
 print(avg_errors)
 print("\n最小平均錯誤率：")
-print(cross_vali
+print(cross_validator.g
