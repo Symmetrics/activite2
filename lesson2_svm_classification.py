@@ -31,4 +31,4 @@ print("\n最小平均錯誤率：")
 print(cross_validator.get_min_avg_error())
 
 print("\n取得最佳模型：")
-best_model = cro
+best_model = cross_val
