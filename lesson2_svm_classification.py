@@ -32,4 +32,4 @@ print(cross_validator.get_min_avg_error())
 
 print("\n取得最佳模型：")
 best_model = cross_validator.get_best_model()
-pr
+print(b
