@@ -35,4 +35,4 @@ best_model = cross_validator.get_best_model()
 print(best_model)
 
 best_model.init_W()
-best_mode
+best_model.
