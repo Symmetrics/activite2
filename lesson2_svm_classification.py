@@ -37,4 +37,4 @@ print(best_model)
 best_model.init_W()
 best_model.train()
 
-future_d
+future_data =
