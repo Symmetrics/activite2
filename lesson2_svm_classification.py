@@ -37,4 +37,4 @@ print(best_model)
 best_model.init_W()
 best_model.train()
 
-future_data = '0.02781
+future_data = '0.02781684911
