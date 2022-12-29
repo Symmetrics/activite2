@@ -41,4 +41,4 @@ future_data = '0.0278168491121 0.0153081289758 3.03709327891 0.10743602255 0.174
 prediction = best_model.prediction(future_data, mode='future_data')
 print(prediction)
 
-input_test_data_file = os.path.join(os.path.join(os.getcwd(), os.path.dirname(__file__)), 'library/iNDIEVOX-Dataset/dataset/emotion_combine_song_
+input_test_data_file = os.path.join(os.path.join(os.getcwd(), os.path.dirname(__file__)), 'library/iNDIEVOX-Dataset/dataset/emotion_combine_song_test.
