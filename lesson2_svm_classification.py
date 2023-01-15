@@ -42,4 +42,4 @@ prediction = best_model.prediction(future_data, mode='future_data')
 print(prediction)
 
 input_test_data_file = os.path.join(os.path.join(os.getcwd(), os.path.dirname(__file__)), 'library/iNDIEVOX-Dataset/dataset/emotion_combine_song_test.dataset')
-best_model.load_test_data(input_test_data_fil
+best_model.load_test_data(input_test_data_file
