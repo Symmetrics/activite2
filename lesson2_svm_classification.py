@@ -45,4 +45,4 @@ input_test_data_file = os.path.join(os.path.join(os.getcwd(), os.path.dirname(__
 best_model.load_test_data(input_test_data_file)
 print("W 平均錯誤率（Ein）：")
 print(best_model.calculate_avg_error_all_class(best_model.train_X, best_model.train_Y, best_model.W))
-prin
+print("W 平
