@@ -46,4 +46,4 @@ best_model.load_test_data(input_test_data_file)
 print("W 平均錯誤率（Ein）：")
 print(best_model.calculate_avg_error_all_class(best_model.train_X, best_model.train_Y, best_model.W))
 print("W 平均錯誤率（Eout）：")
-print(best_model.calculate_avg_error_all_class(b
+print(best_model.calculate_avg_error_all_class(best
