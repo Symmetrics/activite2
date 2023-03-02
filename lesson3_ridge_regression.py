@@ -21,3 +21,9 @@ ridge_regression2.set_param(lambda_p=0.01)
 print("\n10 fold cross validation：")
 
 cross_validator.add_model(ridge_regression1)
+cross_validator.add_model(ridge_regression2)
+avg_errors = cross_validator.excute()
+
+print("\n各模型驗證平均錯誤：")
+print(avg_errors)
+print("\n最小平均錯誤值：")
