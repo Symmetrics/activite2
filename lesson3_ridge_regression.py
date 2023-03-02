@@ -17,3 +17,7 @@ ridge_regression2 = ridge_regression.RidgeRegression()
 ridge_regression2.load_train_data(input_train_data_file)
 ridge_regression2.set_feature_transform('legendre', 2)
 ridge_regression2.set_param(lambda_p=0.01)
+
+print("\n10 fold cross validation：")
+
+cross_validator.add_model(ridge_regression1)
